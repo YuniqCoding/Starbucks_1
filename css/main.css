@@ -257,7 +257,7 @@
   right: 0;
 }
 .rewards .inner{
-  background-image: url("images/rewards.jpg");
+  background-image: url("../images/rewards.jpg");
   height: 241px;
 }
 .rewards .btn-group{
